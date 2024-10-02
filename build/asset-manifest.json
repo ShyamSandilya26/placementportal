@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShyamSandilya26/placementportal/static/css/main.9ad71128.css",
+    "main.js": "/ShyamSandilya26/placementportal/static/js/main.2e72684e.js",
+    "static/js/453.8c7ad2fc.chunk.js": "/ShyamSandilya26/placementportal/static/js/453.8c7ad2fc.chunk.js",
+    "index.html": "/ShyamSandilya26/placementportal/index.html",
+    "main.9ad71128.css.map": "/ShyamSandilya26/placementportal/static/css/main.9ad71128.css.map",
+    "main.2e72684e.js.map": "/ShyamSandilya26/placementportal/static/js/main.2e72684e.js.map",
+    "453.8c7ad2fc.chunk.js.map": "/ShyamSandilya26/placementportal/static/js/453.8c7ad2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad71128.css",
+    "static/js/main.2e72684e.js"
+  ]
+}
